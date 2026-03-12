@@ -41,7 +41,7 @@ quiz-app/
 1. Laadi projekt alla või klooni GitHubist:
 
 ```bash
-git clone <REPO_LINK>
+git clone https://github.com/KaarelNoole/quiz-app.git
 cd quiz-app
 
 Installi sõltuvused:
