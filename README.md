@@ -5,7 +5,7 @@ Rakendus kuvab kasutajale küsimusi ükshaaval, annab kohest tagasisidet ja näi
 
 ## Funktsionaalsus
 
-- 3 küsimust vähemalt, igaühel 3 vastusevarianti
+- 4 küsimust vähemalt, igaühel 3 vastusevarianti
 - Kohene tagasiside (Õige/Vale vastus)
 - Lõpptulemuste tabel koos kasutaja vastustega
 - Lõppskoor ja isikupärastatud sõnum
