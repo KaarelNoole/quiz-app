@@ -52,7 +52,6 @@ function App() {
     };
 
     setAnswers([...answers, newAnswer]);
-
     setFeedback(correct ? "Õige vastus!" : "Vale vastus!");
 
     setTimeout(() => {
@@ -64,6 +63,13 @@ function App() {
         setShowResults(true);
       }
     }, 1200);
+  };
+
+  const restartQuiz = () => {
+    setCurrentQuestion(0);
+    setAnswers([]);
+    setFeedback("");
+    setShowResults(false);
   };
 
   const score = answers.filter(a => a.correct).length;
@@ -104,6 +110,10 @@ function App() {
         </h2>
 
         <p>{getMessage()}</p>
+
+        <button onClick={restartQuiz}>
+          Alusta uuesti
+        </button>
       </div>
     );
   }
