@@ -3,6 +3,12 @@
 See on interaktiivne valikvastustega viktoriinirakendus, tehtud **React 18** ja **TypeScript** abil.  
 Rakendus kuvab kasutajale küsimusi ükshaaval, annab kohest tagasisidet ja näitab lõpptulemust koos tabeliga.
 
+## Rakenduse demo
+
+Rakendust saab proovida siin:
+
+https://quiz-apps.vercel.app
+
 ## Funktsionaalsus
 
 - 4 küsimust vähemalt, igaühel 3 vastusevarianti
@@ -12,7 +18,6 @@ Rakendus kuvab kasutajale küsimusi ükshaaval, annab kohest tagasisidet ja näi
 - Kujundus järgib Statistikaameti CVI-d
 
 ## Projektistruktuur
-
 
 quiz-app/
 ├─ public/
@@ -28,6 +33,12 @@ quiz-app/
 ├─ tsconfig.json
 └─ README.md
 
+## Tehnoloogiad
+
+- React
+- TypeScript
+- Playwright
+- Node.js
 
 ## Nõuded
 
