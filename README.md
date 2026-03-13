@@ -7,7 +7,7 @@ Rakendus kuvab kasutajale küsimusi ükshaaval, annab kohest tagasisidet ja näi
 
 Rakendust saab proovida siin:
 
-https://quiz-apps.vercel.app
+[https://quiz-apps.vercel.app](https://quiz-apps-ashen.vercel.app/)
 
 ## Funktsionaalsus
 
